@@ -13,11 +13,11 @@ Step 10. Add the new View Controller with the image viewer and connect with the 
 Step 11. Run on the simulator with device iPhone X
 
 The photo of the app:
+
 ![alt text](https://github.com/taminhtu/SimpleSiderMenu/blob/master/Create%20Simple%20Sidebar%20Swift%20iOS.gif)
 
 
 You can watch the video here:
-
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=4m66M7KJuX4&t=416s)
 
