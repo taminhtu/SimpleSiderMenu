@@ -19,7 +19,7 @@ The photo of the app:
 
 You can watch the video here:
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=4m66M7KJuX4&t=416s)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/VJcTkRj0o0I)
 
 
 You will also learn:
